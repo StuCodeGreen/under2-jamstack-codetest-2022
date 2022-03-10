@@ -2,15 +2,15 @@
 We've put together a short code exercise so we can better understand your development capabilities and problem soliving skills. We don't want to ask for too much of your time for this exercise, let's see what you can achieve in 2 hours.
 
 ## Part 1 — Getting set up
-- [ ] Fork this repo before you begin
-- [ ] Clone the repo on your local machine
-- [ ] Install project dependencies
-- [ ] Get your development server running
+- [x] Fork this repo before you begin
+- [x] Clone the repo on your local machine
+- [x] Install project dependencies
+- [x] Get your development server running
 
 ## Part 2 — Deploying to netlify
-- [ ] Wire up a free netlify account to your git repo
-- [ ] build the next project to a new netlify site
-- [ ] add the site name here
+- [x] Wire up a free netlify account to your git repo
+- [x] build the next project to a new netlify site
+- [x] https://clever-hopper-46eac6.netlify.app/
 ## Part 3 — Performance troubleshooting
 Our site is fast out of the box but there are a couple of quick wins we can grab to speed the page up further.
 - [ ] Run a lighthouse test (in a guest tab) and record the results
