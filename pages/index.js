@@ -8,11 +8,6 @@ import { HomeHero } from '../components/sections/HomeHero'
 
 import featuredPartnersJSON from "../content/featured-partners.json"
 
-
-export function getStaticProps() {
-
-}
-
 export default function Home() {
   return (
     <>
@@ -21,7 +16,7 @@ export default function Home() {
         <meta name="description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam…" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      
+
       <GlobalNavigation />
       <div className="grow">
         <HomeHero />
