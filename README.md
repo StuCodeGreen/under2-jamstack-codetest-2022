@@ -15,11 +15,11 @@ We've put together a short code exercise so we can better understand your develo
 Our site is fast out of the box but there are a couple of quick wins we can grab to speed the page up further.
 - [x] Run a lighthouse test (in a guest tab) and record the results
 - [x] Implement the 2 main oppurtunitues that lighthouse provides
-- [x] Run another lighthouse test and record the reult
+- [x] Run another lighthouse test and record the result
 - [x] Push your progress to your github branch and trigger a build
 
 ## Part 4 — Finishing off the home page
-- [ ] Using the `/content/latest-articles.json` file located in the root of this project, build out and populate the new latest articles page section
+- [x] Using the `/content/latest-articles.json` file located in the root of this project, build out and populate the new latest articles page section
 - [ ] Our client has asked for a newsletter signup form to be added to the site just above the footer. Using the designs in the `/designs` directory, build out the newsletter signup section ui
 
 - [ ] Wire up the form so that submissions will post the form data to `https://under2.free.beeceptor.com/submit` with the following data structure:

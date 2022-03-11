@@ -5,8 +5,10 @@ import { FeaturedPartners } from '../components/sections/FeaturedPartners/Featur
 import { GlobalFooter } from '../components/sections/GlobalFooter'
 import { GlobalNavigation } from '../components/sections/GlobalNavigation'
 import { HomeHero } from '../components/sections/HomeHero'
+import { LatestArticles } from '../components/sections/LatestArticles'
 
 import featuredPartnersJSON from "../content/featured-partners.json"
+import latestArticlesJSON from "../content/latest-articles.json"
 
 export default function Home() {
   return (
@@ -22,6 +24,7 @@ export default function Home() {
         <HomeHero />
         <FeaturedBenefits padding="mdTopOnly"  />
         <FeaturedPartners partners={featuredPartnersJSON} />
+        <LatestArticles articles={latestArticlesJSON} />
       </div>
       <GlobalFooter />
     </>
