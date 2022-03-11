@@ -1,11 +1,13 @@
 import React from "react"
 import PropTypes from "prop-types"
+import {v4 as uuidv4} from 'uuid';
 
 BrandLogo.propTypes = {
     className: PropTypes.string
 }
 
 export function BrandLogo({ className = "" }) {
+    const svgTitleId = uuidv4();
     return (
         <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -13,7 +15,10 @@ export function BrandLogo({ className = "" }) {
         height="31"
         viewBox="0 0 76 31"
         className={className}
+        aria-labelledby={svgTitleId}
+        role="img"
       >
+        <title id={svgTitleId}>Brand logo image</title>
         <g fill="none" fillRule="evenodd" stroke="none" strokeWidth="1">
           <g fill="currentColor" transform="translate(-204 -43)">
             <g transform="translate(204 43)">

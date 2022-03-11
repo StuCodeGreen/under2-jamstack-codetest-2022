@@ -1,72 +1,72 @@
 [{
-    "src":"/images/brands/brand-0.png",
-    "alt": "AWS Network Partner", 
-    "width": 141,
-    "height": 39
+  "src":"/images/brands/brand-0.webp",
+  "alt": "AWS Network Partner",
+  "width": 141,
+  "height": 39
 },
 {
-    "src":"/images/brands/brand-1.png",
-    "alt": "Google Cloud", 
-    "width": 162,
-    "height": 28
+  "src":"/images/brands/brand-1.webp",
+  "alt": "Google Cloud",
+  "width": 162,
+  "height": 28
 },
 {
-    "src":"/images/brands/brand-2.png",
-    "alt": "Capgemeni", 
-    "width": 154,
-    "height": 36
+  "src":"/images/brands/brand-2.webp",
+  "alt": "Capgemeni",
+  "width": 154,
+  "height": 36
 },
 {
-    "src":"/images/brands/brand-3.png",
-    "alt": "PWC", 
-    "width": 72,
-    "height": 56
+  "src":"/images/brands/brand-3.webp",
+  "alt": "PWC",
+  "width": 72,
+  "height": 56
 },
 {
-    "src":"/images/brands/brand-4.png",
-    "alt": "Accenture", 
-    "width": 122,
-    "height": 33
+  "src":"/images/brands/brand-4.webp",
+  "alt": "Accenture",
+  "width": 122,
+  "height": 33
 },
 {
-    "src":"/images/brands/brand-5.png",
-    "alt": "Globant", 
-    "width": 132,
-    "height": 35
+  "src":"/images/brands/brand-5.webp",
+  "alt": "Globant",
+  "width": 132,
+  "height": 35
 },
 {
-    "src":"/images/brands/brand-6.png",
-    "alt": "Ncino", 
-    "width": 128,
-    "height": 49
+  "src":"/images/brands/brand-6.webp",
+  "alt": "Ncino",
+  "width": 128,
+  "height": 49
 },
 {
-    "src":"/images/brands/brand-7.png",
-    "alt": "Comply Advantage", 
-    "width": 128,
-    "height": 44
+  "src":"/images/brands/brand-7.webp",
+  "alt": "Comply Advantage",
+  "width": 128,
+  "height": 44
 },
 {
-    "src":"/images/brands/brand-8.png",
-    "alt": "Everis", 
-    "width": 140,
-    "height": 102
+  "src":"/images/brands/brand-8.webp",
+  "alt": "Everis",
+  "width": 140,
+  "height": 102
 },
 {
-    "src":"/images/brands/brand-9.png",
-    "alt": "Marqeta", 
-    "width": 156,
-    "height": 23
+  "src":"/images/brands/brand-9.webp",
+  "alt": "Marqeta",
+  "width": 156,
+  "height": 23
 },
 {
-    "src":"/images/brands/brand-10.png",
-    "alt": "Persistent", 
-    "width": 258,
-    "height": 160
+  "src":"/images/brands/brand-10.webp",
+  "alt": "Persistent",
+  "width": 258,
+  "height": 160
 },
 {
-    "src":"/images/brands/brand-11.png",
-    "alt": "Deloitte", 
-    "width": 138,
-    "height": 30
+  "src":"/images/brands/brand-11.webp",
+  "alt": "Deloitte",
+  "width": 138,
+  "height": 30
 }]

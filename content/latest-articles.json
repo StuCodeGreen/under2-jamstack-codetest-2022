@@ -3,18 +3,18 @@
         "_id": "0",
         "heading": "The long term effects of COVID on the world economy",
         "publishDate": "22-01-11",
-        "coverImage": "/images/articles/article-0.jpg"
+        "coverImage": "/images/articles/article-0.webp"
     },
     {
         "_id": "1",
         "heading": "Is Bitcoin’s time up? Or is it an unstoppable force?",
         "publishDate": "22-01-09",
-        "coverImage": "/images/articles/article-1.jpg"
+        "coverImage": "/images/articles/article-1.webp"
     },
     {
         "_id": "2",
         "heading": "2022 marks the advent of the every man trader",
         "publishDate": "22-01-07",
-        "coverImage": "/images/articles/article-2.jpg"
+        "coverImage": "/images/articles/article-2.webp"
     }
 ]
