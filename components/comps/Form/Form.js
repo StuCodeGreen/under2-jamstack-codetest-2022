@@ -7,7 +7,7 @@ Form.propTypes = {
 };
 
 export function Form({ handleSubmit }) {
-  const inputStyle = 'h-10 border-solid border-2 rounded';
+  const inputStyle = 'h-10 border-solid border-2 rounded px-2';
 
   return (
     <form onSubmit={handleSubmit} className='gap-5 grid lg:grid-cols-2'>
