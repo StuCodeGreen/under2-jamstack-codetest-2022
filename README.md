@@ -20,12 +20,12 @@ Our site is fast out of the box but there are a couple of quick wins we can grab
 
 ## Part 4 — Finishing off the home page
 - [x] Using the `/content/latest-articles.json` file located in the root of this project, build out and populate the new latest articles page section
-- [ ] Our client has asked for a newsletter signup form to be added to the site just above the footer. Using the designs in the `/designs` directory, build out the newsletter signup section ui
+- [x] Our client has asked for a newsletter signup form to be added to the site just above the footer. Using the designs in the `/designs` directory, build out the newsletter signup section ui
 
-- [ ] Wire up the form so that submissions will post the form data to `https://under2.free.beeceptor.com/submit` with the following data structure:
+- [x] Wire up the form so that submissions will post the form data to `https://under2.free.beeceptor.com/submit` with the following data structure:
   ```{ firstName, lastName, email, company }```
-- [ ] Push your progress to your github branch and trigger a build
+- [x] Push your progress to your github branch and trigger a build
 
 
 ## Part 5 - Finishing up
-- [ ] Make sure the repo is public and share it with us
+- [x] Make sure the repo is public and share it with us

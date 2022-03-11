@@ -42,7 +42,7 @@ export function ArticleCard({ href, heading, publishDate, coverImage }) {
         <TextBlock theme='subtle' className='mb-2 text-xs md:text-sm'>
           {date}
         </TextBlock>
-        <h2 className='text-xs md:text-sm'>{heading}</h2>
+        <h2 className='text-xs md:text-sm font-bold'>{heading}</h2>
       </div>
     </Link>
   );

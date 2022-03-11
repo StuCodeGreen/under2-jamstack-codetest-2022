@@ -12,7 +12,7 @@ LatestArticles.propTypes = {
 export function LatestArticles({ className = '', articles }) {
   return (
     <section className={` ${className}`}>
-      <Container className='pb-16 md:pb-32' padding=''>
+      <Container className='border-t solid md:border-none py-8'>
         <div className='col-span-full'>
           <Heading className=''>The latest from Mula</Heading>
           <div className='grid grid-cols-1 md:grid-cols-3 gap-8'>

@@ -14,15 +14,15 @@ FeaturedPartners.propTypes = {
 export function FeaturedPartners({ className = "", partners }) {
     return (
         <section className={` ${className}`}>
-            <Container>
+            <Container className="pb-12 md:pb-0">
                 <div className="col-span-full">
                     <Heading className="">Trusted by more than 500 brands</Heading>
                     <div className="grid grid-cols-2 md:grid-cols-4 gap-2 md:gap-8 my-8 md:my-16">
                         {partners.map(partner => <LogoCard
                             key={partner.alt}
-                            src={partner.src} 
-                            alt={partner.alt} 
-                            height={partner.height} 
+                            src={partner.src}
+                            alt={partner.alt}
+                            height={partner.height}
                             width={partner.width}
                         />)}
                     </div>
