@@ -19,7 +19,6 @@ export function Newsletter({ className = '' }) {
       email: event.target.email.value,
       company: event.target.company.value,
     };
-    console.log(formInputs);
     const options = {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
